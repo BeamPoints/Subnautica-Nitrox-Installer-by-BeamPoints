@@ -1,0 +1,12 @@
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Debug\Install_Nitrox.exe.config
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Debug\Install_Nitrox.exe
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Debug\Install_Nitrox.pdb
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Form1.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Properties.Resources.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.exe
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.pdb
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Form2.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Form3.resources

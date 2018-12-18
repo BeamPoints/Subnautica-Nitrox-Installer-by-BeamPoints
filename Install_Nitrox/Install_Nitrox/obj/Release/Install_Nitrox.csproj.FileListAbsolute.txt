@@ -1,0 +1,13 @@
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Subnautica.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Form2.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Form3.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Properties.Resources.resources
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.config
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.pdb
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.CodeAnalysisLog.xml
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.lastcodeanalysissucceeded
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.exe
+C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.pdb
