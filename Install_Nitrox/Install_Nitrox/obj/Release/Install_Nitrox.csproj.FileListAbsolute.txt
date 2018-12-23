@@ -11,3 +11,18 @@ C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.lastcodeanalysissucceeded
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.exe
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.pdb
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.config
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.CodeAnalysisLog.xml
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.lastcodeanalysissucceeded
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.csprojAssemblyReference.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Subnautica.resources
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.Properties.Resources.resources
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.csproj.GenerateResource.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Install_Nitrox.csproj.CoreCompileInputs.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.exe
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.exe.manifest
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Release\Subnautica Nitrox Installer by BeamPoints.application
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.TrustInfo.xml
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.exe.manifest
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Release\Subnautica Nitrox Installer by BeamPoints.application

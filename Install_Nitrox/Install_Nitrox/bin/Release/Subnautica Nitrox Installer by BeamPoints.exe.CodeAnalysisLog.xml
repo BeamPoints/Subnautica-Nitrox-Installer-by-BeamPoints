@@ -25,4 +25,10 @@
   <String Key="Warnings">warning(s)</String>
   <String Key="ReportTitle">Code Analysis Report</String>
  </Localized>
+ <Exceptions>
+  <Exception Keyword="CA0068" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>Debug information could not be found for target assembly 'Subnautica Nitrox Installer by BeamPoints.exe'. For best analysis results, include the .pdb file with debug information for 'Subnautica Nitrox Installer by BeamPoints.exe' in the same directory as the target assembly.</ExceptionMessage>
+  </Exception>
+ </Exceptions>
 </FxCopReport>

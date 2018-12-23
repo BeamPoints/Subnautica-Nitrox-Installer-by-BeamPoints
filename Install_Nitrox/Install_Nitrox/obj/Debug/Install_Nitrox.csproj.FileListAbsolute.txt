@@ -10,3 +10,13 @@ C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitr
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.pdb
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Form2.resources
 C:\Users\patri\source\repos\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Form3.resources
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Debug\Subnautica Nitrox Installer by BeamPoints.exe.config
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Debug\Subnautica Nitrox Installer by BeamPoints.exe
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\bin\Debug\Subnautica Nitrox Installer by BeamPoints.pdb
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csprojAssemblyReference.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Subnautica.resources
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.Properties.Resources.resources
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csproj.GenerateResource.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Install_Nitrox.csproj.CoreCompileInputs.cache
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Subnautica Nitrox Installer by BeamPoints.exe
+D:\GitHub\Subnautica Nitrox Installer by BeamPoints\Install_Nitrox\Install_Nitrox\obj\Debug\Subnautica Nitrox Installer by BeamPoints.pdb
